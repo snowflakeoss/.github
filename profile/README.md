@@ -11,20 +11,6 @@ It safeguards your data and privacy securely when in transit as well as when at 
 - Smooth and Responsive apps
 - Lightweight and consumes very little power
 - Security
-- Easy transferring of data from one device to another securely
-
-## Downloads
-
-All the apps are available under different repositories.
-
-- Download from GitHub Releases
-  - Select any app that you want to download.
-  - Then head over to the releases section and download the build based on your device
-    
-- Download from the store
-  - Head over to https://snowflakeoss.github.io/store
-  - Search for your app
-  - Download the app based on your device
 
 ## Community
 
